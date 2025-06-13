@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand+Pre&display=swap');
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:aquamarine ;
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+}
